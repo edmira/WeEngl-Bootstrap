@@ -1,0 +1,108 @@
+#navbarSupportedContent ul li a{
+  color: #72be42;
+}
+#navbarSupportedContent ul li:hover{
+  background-color: #72be422e;
+}
+ .navbar-brand{
+  color: #6fb13e;
+}
+.navbar-brand:hover{
+  color: black;
+  background-color: #72be422e;
+}
+.logini
+{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 5%;
+}
+.container-icons h1{
+  margin: 7%;
+    text-align: center;
+    color: #72be42;
+    font-size: 63px;
+    text-shadow: 4px 4px 7px black;
+    transform: skew(5deg, -3deg);
+}
+.container-icons {
+  text-align:center;
+  margin-top:5%;
+  font-size: 40px;
+  color: #72be42;
+  margin-bottom:5%;
+}
+
+.container-icons .text {
+  color: #3f3f3f;
+}
+
+.container-icons .header {
+  color: #3f3f3f;
+  margin-bottom:5%;
+  text-align:center;
+}
+.container-icons .text .header {
+  font-size: 25px;
+}
+
+.container-icons .text .description {
+  font-size: 15px;
+}
+.paragrafi p
+{
+	color: #72be42;
+	text-align: center;
+  margin-top: 2%;
+}
+
+.paragrafi
+{
+	border-top: 3px solid #72be42;
+	text-align:center;
+		margin-top:5%;
+		font-size: 20px;
+		color: #72be42;
+		margin-bottom:5%;
+		border-bottom: 3px solid #72be42;
+		padding: 2%;
+}
+.lajme
+{
+	color: #72be42;
+	text-align: center;
+	padding: 4%;
+}
+.thumbnail a
+{
+	text-decoration: none;
+	color: #72be42;
+	text-align: center;
+	margin-top: 20px;
+  
+}
+.thumbnail p{
+  color: #3f3f3f;
+}
+.thumbnail
+{
+	border-style: solid;
+	padding: 3%;
+	border-color: #72be42;
+
+}
+.thumbnail img
+{
+	height: 250px;
+}
+.footer {
+	
+  height:100px;
+  color: #3f3f3f !important;
+  padding:10px;
+  text-align: center;
+  margin-top: 8%;
+  border-top: 3px solid #72be42;
+  }
